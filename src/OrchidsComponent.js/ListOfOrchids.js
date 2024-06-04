@@ -1,0 +1,162 @@
+[
+    {
+        id: 1,
+        name:'Double Branch Fuchsia Orchid',
+        rating: 5,
+        isSpecial: true,
+        color: 'purple',
+        image: 'assets/images/orchids01.jpg',
+        origin:'botanical',
+        category: 'Fuchsia',
+    },
+    {
+        id: 2,
+        name: 'White Orchid',
+        rating:5,
+        isSpecial: true,
+        color: 'white',
+        image:'assets/images/orchids02.jpg',
+        origin:'botanical',
+        category:'Fuchsia',
+    },
+    {
+        id: 3,
+        name: 'Paphiopedilum rothschildianum',
+        rating: 5,
+        isSpecial: true,
+        color: 'light brown',
+        image: 'assets/images/orchids03.jpg',
+        origin: 'Mount Kinabalu in Borneo',
+        category:'Fuchsia'
+    },
+    {
+        id: 4,
+        name: 'Phalaenopsis amabilis',
+        rating: 5,
+        isSpecial: true,
+        color: 'white',
+        image: 'assets/images/orchids04.jpg',
+        origin: 'Indonesia',
+        category: 'Orchidaceae'
+    },
+    {
+        id: 5,
+        name: 'Dendrobium nobile',
+        rating: 5,
+        isSpecial: true,
+        color: 'purple',
+        image: 'assets/images/orchids05.jpg',
+        origin: 'China',
+        category: 'Orchidaceae',
+    },
+    {
+        id:6,
+        name: 'Vanda coerulea',
+        rating: 5,
+        isSpecial: true,
+        color: 'white',
+        image: 'assets/images/orchids06.jpg',
+        origin: 'Himalayas',
+        category: 'V. coerulea'
+    },
+    {
+        id: 7,
+        name: 'Miltonia spectabilis',
+        rating: 5,
+        isSpecial: true,
+        color: 'white and light pink',
+        image:'assets/images/orchids07.jpg',
+        origin:'Brazil',
+        category: 'Miltonia'
+    },
+    {
+        id: 8,
+        name: 'Oncidium Sharry Baby',
+        rating: 5,
+        isSpecial: true,
+        color: 'dark green',
+        image: 'assets/images/orchids08.jpg',
+        origin: 'Oncidium',
+        category:'Northern Mexico'
+    },
+    {
+        id: 9,
+        name: 'Cypripedium calceolus',
+        rating: 5,
+        isSpecial: true,
+        color: 'green',
+        image: 'assets/images/orchids09.jpg',
+        origin: 'Europe and Asia',
+        category: 'Cypripedium'
+    },
+    {
+        id: 10,
+        name: 'Cattleya labiata',
+        rating: 5,
+        isSpecial: true,
+        color: 'violet',
+        image: 'assets/images/orchids10.jpg',
+        origin: 'Brazil',
+        category: 'Cattleya'
+    },
+    {
+        id: 11,
+        name: 'Laelia purpurata',
+        rating: 5,
+        isSpecial: true,
+        color: 'light yellow',
+        image: 'assets/images/orchids11.jpg',
+        origin: 'Brazil',
+        category: 'Cattleya'
+    },
+    {
+        id: 12,
+        name: 'Masdevallia veitchiana',
+        rating: 5,
+        isSpecial: true,
+        color: 'light red',
+        image: 'assets/images/orchids12.jpg',
+        origin: 'Peru',
+        category: 'Masdevallia'
+    },
+    {
+        id: 13,
+        name: 'Caladenia alpina',
+        rating: 5,
+        isSpecial: true,
+        color: 'white',
+        image: 'assets/images/orchids13.jpg',
+        origin: 'Australia',
+        category: 'Orchidaceae'
+    },
+    {
+        id: 14,
+        name: 'Caladenia flava subsp maculata',
+        rating: 5,
+        isSpecial: true,
+        color: 'yellow',
+        image: 'assets/images/orchids14.jpg',
+        origin: 'Western Australia',
+        category: 'Caladenia'
+    },
+    {
+        id: 15,
+        name: 'Caladenia fluvialis',
+        rating: 5,
+        isSpecial: true,
+        color: 'light green',
+        image: 'assets/images/orchids15.jpg',
+        origin: 'Western Australia',
+        category: 'Caladenia'
+    },
+    {
+        id: 16,
+        name: 'Caladenia plicata',
+        rating: 5,
+        isSpecial: true,
+        color: 'red,yellow,pale green',
+        image: 'assets/images/orchids16.jpg',
+        origin: 'Western Australia',
+        category: 'Caladenia'
+    },
+]
