@@ -19,12 +19,12 @@ const data = [
         color: 'yellow',
         image: 'assets/images/orchids02.jpg',
         origin: 'Middle East',
-        category: 'Middle East',
+        category: 'Ophrys',
         info: 'Ophrys lutea, the yellow bee-orchid, is a species of orchid native to southern Europe, North Africa, and the Middle East, the range extending from Portugal and Morocco to Syria. Extended petals, yellow or with a blue-grey or brown spotted velvety macula. Pollinated by male Andrena bees. This species is notable among Ophrys for the fact that the pollinating bees sit on the labellum facing away from the pollinaria instead of facing towards them, and thus collect the pollinaria with their abdomen.'
     },
     {
         id: 3,
-        name: 'Paphiopedilum rothschildianum',
+        name: 'P.Rothschildianum',
         rating: 5,
         isSpecial: true,
         color: 'light brown',
@@ -84,8 +84,8 @@ const data = [
         isSpecial: true,
         color: 'dark green',
         image: 'assets/images/orchids08.jpg',
-        origin: 'Oncidium',
-        category: 'Northern Mexico',
+        origin: 'Northern Mexico',
+        category: 'Oncidium',
         info: 'Oncidium, abbreviated as Onc. in the horticultural trade, is a genus that, as of December 2023, contains about 340 species of orchids from the subtribe Oncidiinae of the orchid family Orchidaceae. It is distributed across tropical and subtropical America from Mexico, Central America and the West Indies to northern Argentina, with one species (O. ensatum) extending into Florida. Common names for plants in this genus include dancing-lady orchid and golden shower orchid.'
     },
     {
@@ -145,7 +145,7 @@ const data = [
     },
     {
         id: 14,
-        name: 'Caladenia flava subsp maculata',
+        name: 'C.flava subsp maculata',
         rating: 5,
         isSpecial: true,
         color: 'yellow',

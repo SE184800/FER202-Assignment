@@ -11,7 +11,7 @@ export default function Orchids() {
                 <div className='Column' key={item.id}>
                     <div className='Card'>
                         <img src={item.image} alt='' />
-                        <h2> {item.name}</h2>
+                        <h3> {item.name}</h3>
                         <p>{item.origin}</p>
                         <p>{item.category}</p>
                         <Link to={`Detail/${item.id}`}>
